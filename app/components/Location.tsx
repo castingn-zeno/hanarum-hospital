@@ -140,26 +140,17 @@ export default function Location() {
             </div>
           </div>
 
-          <div className="bg-gray-200 rounded-2xl overflow-hidden min-h-[400px] flex items-center justify-center">
-            <div className="text-center text-gray-500 p-8">
-              <svg
-                className="w-12 h-12 mx-auto mb-3 text-gray-400"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={1.5}
-                  d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"
-                />
-              </svg>
-              <p className="font-semibold">지도 영역</p>
-              <p className="text-sm mt-1">
-                서울특별시 강남구 테헤란로 123
-              </p>
-            </div>
+          <div className="rounded-2xl overflow-hidden min-h-[400px]">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.354!2d127.0276!3d37.4979!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca15a5e30a4e1%3A0x8a8e5a5c5b5b5b5b!2z7ISc7Jq47Yq567OE7IucIOqwleuCqOq1rCDthYztl6TrnoDroZwgMTIz!5e0!3m2!1sko!2skr!4v1700000000000!5m2!1sko!2skr"
+              width="100%"
+              height="100%"
+              style={{ border: 0, minHeight: "400px" }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              title="한아름 병원 위치"
+            />
           </div>
         </div>
       </div>
