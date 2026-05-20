@@ -30,7 +30,7 @@ const DOCTORS = [
     career:
       "성균관대학교 의과대학 졸업\n삼성서울병원 영상의학 전임의\n건강검진센터장",
     image:
-      "https://images.unsplash.com/photo-1594824476967-48c8b964ac31?w=400&q=80",
+      "https://images.unsplash.com/photo-1614608682850-e0d6ed316d47?w=400&q=80",
   },
 ];
 

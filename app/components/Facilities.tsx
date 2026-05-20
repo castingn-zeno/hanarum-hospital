@@ -17,13 +17,13 @@ const FACILITIES = [
     title: "입원실",
     desc: "1~4인실, 호텔급 편의시설 완비",
     image:
-      "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=600&q=80",
+      "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=600&q=80",
   },
   {
     title: "재활치료실",
     desc: "최신 재활 장비와 전문 물리치료사",
     image:
-      "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=80",
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
   },
   {
     title: "건강검진센터",
@@ -35,7 +35,7 @@ const FACILITIES = [
     title: "소아 놀이공간",
     desc: "아이들이 편안하게 대기할 수 있는 공간",
     image:
-      "https://images.unsplash.com/photo-1587654780291-39c9404d7dd0?w=600&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&q=80",
   },
 ];
 

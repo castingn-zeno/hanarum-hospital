@@ -12,7 +12,7 @@ const DEPARTMENTS = [
     name: "외과",
     desc: "복강경 수술, 갑상선 수술 등 최소 침습 수술을 통해 빠른 회복을 돕습니다. 수술 후 집중 관리 시스템을 갖추고 있습니다.",
     image:
-      "https://images.unsplash.com/photo-1551190822-a9ce113ac100?w=600&q=80",
+      "https://images.unsplash.com/photo-1579684453423-f84349ef60b0?w=600&q=80",
     tags: ["복강경", "갑상선", "탈장", "외상"],
   },
   {
